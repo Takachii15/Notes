@@ -7,4 +7,4 @@
 <h3 allign="center">accurate representation of me rn</h3>
 </p>
 
-[[z:zettels?tag=operating-system]]
+[[z:zettels?tag=class]]

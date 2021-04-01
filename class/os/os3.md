@@ -4,7 +4,6 @@ title: os3
 slug: os
 tags:
   - operating-system
-  - class
 ---
 
 # Program and Process
