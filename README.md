@@ -29,5 +29,5 @@ Got questions? Checkout the [[faq]]. To find who else is using this template *pu
 [neuron]: https://neuron.zettel.page
 [examples]: https://neuron.zettel.page/examples
 [linking]: https://neuron.zettel.page/linking
-[create]: https://neuron.zettel.page/create
+[notes](https://takachii15.github.io/Notes/)
 
