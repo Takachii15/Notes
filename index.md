@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="./static/me-now.jpg">
-<h1 allign="center">accurate representation of me rn</h1>
+<h3 allign="center">accurate representation of me rn</h3>
 </p>
 
 [[z:zettels?tag=operating-system]]
