@@ -1,4 +1,5 @@
-[#](#) Class Notes
+# Class Notes
+
 ## Compilation of all my notes in this semester
 
 <p align="center">
