@@ -1,7 +1,7 @@
 ---
 date: 2021-03-19T20:32
 title: os3
-slug: os
+slug: os3
 tags:
   - os
 ---
