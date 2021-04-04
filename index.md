@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="./static/me-now.jpg">
-<p allign="center">accurate representation of me rn</p>
+<h1 allign="center">accurate representation of me rn</h1>
 </p>
 
 [[z:zettels?tag=class]]
