@@ -7,4 +7,6 @@
 <h1 allign="center">accurate representation of me rn</h1>
 </p>
 
+## Class
+
 [[z:zettels?tag=class]]
