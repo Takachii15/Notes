@@ -22,9 +22,9 @@ tags:
 
 ![feedback](static/1617509790.png)
 
-``
+``````
 Memoryless channel = the statistical result at current receiver(y) only influenced by current transmitter so there's no memory
-``
+``````
 
 let's assume there is a system where there is an transmitter(x) and a receiver(y), and the conditional mass function of the system is p(y|x). if one wish
 to use this channel n times, then 
@@ -54,4 +54,10 @@ Assume Input were X = {1,2,...,m} and Y = {0,1}, so all input except i were crus
 
 if sender and receiver were not one (x1,x2,...,xn) and one receiver y, so the conditional distribution were p(y|x1,x2,...,xn), so there were also interference between the sender
 so the capacity is classified as region as following, 
-R1 <
+R1 
+
+# Computational complexity for mutiple access channel
+
+consider the binary erasure multiple access channel in wich X1,X2 => {0,1}; Y => {0,1,2} and X = X1 + X2
+![complexity](./static/1617619013.png)
+
