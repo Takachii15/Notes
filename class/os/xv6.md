@@ -12,3 +12,7 @@ tags:
 ## what this notes for?
 this notes is for my OS course Assignment prep
 
+## what is xv6 ?
+
+xv6 is an operating system that developed by mit for learning purposes
+
